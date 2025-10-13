@@ -5,10 +5,11 @@
   "settings-schema": "org.gnome.shell.extensions.accent-gtk-theme",
   "shell-version": [
     "47",
-    "48"
+    "48",
+    "49"
   ],
   "url": "https://github.com/florintanasa/accent-gtk-theme",
   "uuid": "accent-gtk-theme@brgvos",
-  "version": 7,
-  "version-name": "4"
+  "version": 8,
+  "version-name": "5"
 }
